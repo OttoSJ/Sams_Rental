@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "5d713995b721c3bb38c1f5d0",
+    "storeName": "Sam's Rentals",
+    "phone": "(111) 111-1111",
+    "website": "https://sams_rental.com",
+    "email": "samsrental121@geezmail.com",
+    "careers": [
+      "Store Manager",
+      "Shift Supervisor",
+      "Frontend Engineer",
+      "Backend Engineer"
+    ],
+    "address": "121 Main st Charlotte NC 28277",
+    "storeHours": {
+      "monday": { "open": "0800", "close": "2200" },
+      "tuesday": { "open": "0800", "close": "2200" },
+      "wednesday": { "open": "0800", "close": "2200" },
+      "thursday": { "open": "0800", "close": "2200" },
+      "friday": { "open": "0800", "close": "2200" },
+      "saturday": { "open": "0800", "close": "2200" },
+      "sunday": { "open": "0800", "close": "2200" }
+    }
+  }
+]
